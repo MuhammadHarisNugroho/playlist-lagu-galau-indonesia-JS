@@ -13,7 +13,7 @@ new Vue({
             name: "Belum Siap Kehilangan",
             artist: "Steven Pasaribu",
             cover: "./assets/img/belum-siap-kehilangan.jpg",
-            source: "./assets/mp3/Stevan-Pasaribu-Belum-Siap-Kehilangann.mp3",
+            source: "./assets/mp3/Stevan-Pasaribu-Belum-Siap-Kehilangan.mp3",
             url: "https://www.youtube.com/watch?v=0ru5Ox8f_vs",
             favorited: false
           },
