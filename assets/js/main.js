@@ -186,6 +186,141 @@ new Vue({
             url: "https://www.youtube.com/watch?v=YLiRgeU7fQw",
             favorited: false
           },
+          
+          {
+            name: "Kau Rumahku",
+            artist: "Raissa Anggiani Rai",
+            cover: "./assets/img/Raissa-Anggiani-Rai-Kau-Rumahku.jpg",
+            source: "./assets/mp3/Raissa-Anggiani-Rai-Kau-Rumahku.mp3",
+            url: "https://www.youtube.com/watch?v=PgF_LYwJsFQ",
+            favorited: false
+          },
+          
+          {
+            name: "Haunting",
+            artist: "Shanna Shannon ft Stevan Pasaribu",
+            cover: "./assets/img/Shanna-Shannon-ft-Stevan-Pasaribu-Haunting.jpg",
+            source: "./assets/mp3/Shanna-Shannon-ft-Stevan-Pasaribu-Haunting.mp3",
+            url: "https://www.youtube.com/watch?v=MkiO-OKgCA0",
+            favorited: false
+          },
+          
+          {
+            name: "Bebaskan Diriku",
+            artist: "Armada",
+            cover: "./assets/img/Armada-Bebaskan-Diriku.jpg",
+            source: "./assets/mp3/Armada-Bebaskan-Diriku.mp3",
+            url: "https://www.youtube.com/watch?v=BQwdf22PaRY",
+            favorited: false
+          },
+          
+          {
+            name: "Keliru",
+            artist: "Java-Jive",
+            cover: "./assets/img/Java-Jive-Keliru.jpg",
+            source: "./assets/mp3/Java-Jive-Keliru.mp3",
+            url: "https://www.youtube.com/watch?v=eWK_LKOiFeo",
+            favorited: false
+          },
+          
+          {
+            name: "Kenangan Terindah",
+            artist: "Samsons",
+            cover: "./assets/img/Kenangan-Terindah-Samson.jpg",
+            source: "./assets/mp3/Samsons-Kenangan-Terindah.mp3",
+            url: "https://www.youtube.com/watch?v=-yG8j2MGOyY",
+            favorited: false
+          },
+          
+          {
+            name: "Benci Untuk Mencinta",
+            artist: "Naif",
+            cover: "./assets/img/Benci-Untuk-Mencinta.jpg",
+            source: "./assets/mp3/Benci-Untuk-Mencinta.mp3",
+            url: "https://www.youtube.com/watch?v=CFFOyc067tU",
+            favorited: false
+          },
+          
+          {
+            name: "Menjadi Dia",
+            artist: "Tiara Andini",
+            cover: "./assets/img/janji-setia-tiara-andini.jpg",
+            source: "./assets/mp3/Tiara-Andini-Menjadi-Dia.mp3",
+            url: "https://www.youtube.com/watch?v=8qoL-fhPfO8",
+            favorited: false
+          },
+          
+          {
+            name: "Menyesal",
+            artist: "Yovie Widianto, Lyodra, Tiara Andini, Ziva Magnolya",
+            cover: "./assets/img/Yovie-Widianto-Lyodra-Tiara-Andini-Ziva-Magnolya-Menyesal.jpg",
+            source: "./assets/mp3/Yovie-Widianto-Lyodra-Tiara-Andini-Ziva-Magnolya-Menyesal.mp3",
+            url: "https://www.youtube.com/watch?v=eXQwG8zmPDw",
+            favorited: false
+          },
+          
+          {
+            name: "Tolong",
+            artist: "Budi Doremi",
+            cover: "./assets/img/Budi-Doremi-Tolong.jpg",
+            source: "./assets/mp3/Budi-Doremi-Tolong.mp3",
+            url: "https://www.youtube.com/watch?v=Yf-dfwYWTOw",
+            favorited: false
+          },
+          
+          {
+            name: "Mungkin Hari Ini Esok Atau Nanti",
+            artist: "Anneth",
+            cover: "./assets/img/Anneth-Mungkin-Hari-Ini-Esok-Atau-Nanti.jpg",
+            source: "./assets/mp3/Anneth-Mungkin-Hari-Ini-Esok-Atau-Nanti.mp3",
+            url: "https://www.youtube.com/watch?v=fR4B5FDlNBA",
+            favorited: false
+          },
+          
+          {
+            name: "Celengan Rindu",
+            artist: "Fiersa Besari",
+            cover: "./assets/img/Fiersa-Besari-Celengan-Rindu.jpg",
+            source: "./assets/mp3/Fiersa-Besari-Celengan-Rindu.mp3",
+            url: "https://www.youtube.com/watch?v=ecHJMsYAHkg",
+            favorited: false
+          },
+          
+          {
+            name: "Kangen",
+            artist: "Ari Lasso (Dewa 19)",
+            cover: "./assets/img/Kangen-Ari-Lasso-Dewa-19.jpg",
+            source: "./assets/mp3/Kangen-Ari-Lasso-Dewa-19.mp3",
+            url: "https://www.youtube.com/watch?v=UB69y4ff_nM",
+            favorited: false
+          },
+          
+          {
+            name: "Element-Cinta-Tak-Bersyarat",
+            artist: "Element-Cinta-Tak-Bersyarat",
+            cover: "./assets/img/Element-Cinta-Tak-Bersyarat.jpg",
+            source: "./assets/mp3/Element-Cinta-Tak-Bersyarat.mp3",
+            url: "https://www.youtube.com/watch?v=kNoiqrhrS6o",
+            favorited: false
+          },
+
+          {
+            name: "Peri Cintaku",
+            artist: "Ziva Magnolya",
+            cover: "./assets/img/Ziva-Magnolya-Peri-Cintaku.jpg",
+            source: "./assets/mp3/Ziva-Magnolya-Peri-Cintaku.mp3",
+            url: "https://www.youtube.com/watch?v=-EGblx7XNzw",
+            favorited: false
+          },
+          
+          {
+            name: "Aku Yang Salah",
+            artist: "Mahalini ft Nuca",
+            cover: "./assets/img/Mahalini-x-Nuca-Aku-Yang-Salah.jpg",
+            source: "./assets/mp3/Mahalini-x-Nuca-Aku-Yang-Salah.mp3",
+            url: "https://www.youtube.com/watch?v=Lj_zPn3GsjE",
+            favorited: false
+          },
         ],
         currentTrack: null,
         currentTrackIndex: 0,
